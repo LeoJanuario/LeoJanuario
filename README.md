@@ -11,6 +11,7 @@
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoJanuario&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJanuario&hide_progress=true)](https://github.com/LeoJanuario/github-readme-stats)
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=carolinaltorres&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 ## Tecnologias que eu uso no meu dia
 
