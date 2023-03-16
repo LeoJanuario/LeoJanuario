@@ -21,5 +21,4 @@
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
  </div>
 
-
 ![snake gif](https://github.com/LeoJanuario/LeoJanuario/blob/output/github-contribution-grid-snake.svg)
