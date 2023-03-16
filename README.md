@@ -1,3 +1,8 @@
+<div align="center">
+<h2> Seja, bem vindo!</h2>
+</div>
+</br>
+
 ### Olá! Sou o Leonardo Januario 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leojanuario/)
@@ -21,4 +26,4 @@
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
  </div>
 
-![snake gif](https://github.com/LeoJanuario/LeoJanuario/blob/output/github-contribution-grid-snake.svg)
+[![snake gif](https://github.com/LeoJanuario/LeoJanuario/blob/output/github-contribution-grid-snake.svg)]
