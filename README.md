@@ -10,7 +10,6 @@
 
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoJanuario&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJanuario&hide_progress=true)](https://github.com/LeoJanuario/github-readme-stats)
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJanuario&layout=compact&langs_count=7&theme=radical"/>
     <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/LeoJanuario/count.svg" /></p>
 
