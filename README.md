@@ -9,9 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_iaeleo_/)
 
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoJanuario&show_icons=true&theme=radical)
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoJanuario&layout=compact&langs_count=7&theme=radical"/>
-    <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/LeoJanuario/count.svg" /></p>
+![Leonardo GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoJanuario&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
