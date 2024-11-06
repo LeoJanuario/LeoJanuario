@@ -5,13 +5,18 @@
     Focado no desenvolvimento <strong>Back-end</strong> e especializado em <strong>C#</strong> e <strong>.NET</strong>. <br>
     Atualmente pós-graduando em Machine Learning Engineer.
   </p>
-  
+  <br>
+
+  <h2 align="center">📫 Como me Contatar</h2>
   <a href="https://www.linkedin.com/in/leojanuario/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/imleojanuario/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <p align="center">
+  ✉️ leo.januario@icloud.com 
+</p>
 </div>
 
 ---
@@ -63,14 +68,4 @@
 </ul>
 
 ---
-
-<h2 align="center">📫 Como me Contatar</h2>
-
-<p align="center">
-  <a href="leo.januario@icloud.com" target="_blank">✉️ Email</a> | 
-  <a href="https://linkedin.com/in/leojanuario" target="_blank">🔗 LinkedIn</a>
-</p>
-
----
-
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e descobrir mais sobre meus projetos.
