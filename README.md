@@ -1,9 +1,11 @@
 <div align="center">
-  <h2>Seja bem-vindo!</h2>
-  <p>Olá! Sou o Leonardo Januario 👋</p>
-</div>
-
-<div align="center">
+  <h1>👋 Olá! Eu sou Leonardo Januario</h1>
+  <h3>👨‍💻 Desenvolvedor de Software | Entusiasta de Machine Learning</h3>
+  <p>
+    Focado no desenvolvimento <strong>Back-end</strong> e especializado em <strong>C#</strong> e <strong>.NET</strong>. <br>
+    Atualmente pós-graduando em Machine Learning Engineer.
+  </p>
+  
   <a href="https://www.linkedin.com/in/leojanuario/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -12,86 +14,63 @@
   </a>
 </div>
 
-<h3 align="center">Tecnologias que eu uso no meu dia a dia</h3>
+---
+
+<h2 align="center">🛠️ Principais Tecnologias</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensor" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scipy" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="mat" />
+  <img src="" alt="" />
 </div>
 
+---
 
-# Leonardo Januario
+<h2 align="center">🚀 Projetos em Destaque</h2>
 
-### 👨‍💻 Desenvolvedor de Software | Entusiasta de Machine Learning | Analista Programador Jr.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/seulinkedin) 
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:seuemail@email.com)
-
-Olá! Sou o Leonardo, desenvolvedor de software com foco em **back-end** e especializado em **C#** e **.NET**. Tenho experiência em otimização de processos, criação de APIs e integração de sistemas em nuvem, principalmente com **Azure**. Atualmente, estou focado em expandir meus conhecimentos em **Machine Learning** e estou cursando uma pós-graduação para me tornar um Machine Learning Engineer.
+<ul>
+  <li>
+    <strong>LMS (Learning Management System)</strong><br>
+    Sistema de gestão de aprendizado com envio de e-mails automáticos e controle de presença.
+    <br><strong>Tecnologias:</strong> C#, .NET, SQL Server, Azure
+    <!--<br><a href="#">🔗 Repositório do projeto</a>-->
+  </li>
+  <br>
+</ul>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🎓 Formação e Certificações</h2>
 
-- **Linguagens**: C#, Python, SQL, JavaScript
-- **Frameworks**: .NET Core, TensorFlow, Scikit-learn
-- **Frontend**: HTML, CSS, Bootstrap
-- **Bancos de Dados**: SQL Server, Azure SQL
-- **Cloud**: Microsoft Azure
-- **Ferramentas & Metodologias**: Git, Agile, Azure DevOps
-
-## 🎓 Formação e Certificações
-
-- **Pós-graduação**: Machine Learning Engineer (Em andamento)
-- **Graduação**: Análise e Desenvolvimento de Sistemas - UNISA
-- **Certificações**: 
-  - [Certificação 1](#)
-  - [Certificação 2](#)
+<ul align="center">
+  <li><strong>Pós-graduação:</strong> Machine Learning Engineer - FIAP </li>
+  <li><strong>Graduação:</strong> Análise e Desenvolvimento de Sistemas - CUFSA</li>
+</ul>
 
 ---
 
-## 🚀 Projetos em Destaque
+<h2 align="center">📫 Como me Contatar</h2>
 
-1. **LMS (Learning Management System)**
-   - Sistema de gestão de aprendizado, com envio de e-mails automáticos e controle de presença.
-   - **Tecnologias**: C#, .NET, SQL Server, Azure.
-   - [Repositório do projeto](#)
-
-2. **API de Controle de Estoque**
-   - Sistema desenvolvido para melhorar a gestão de produtos e otimizar o fluxo de dados entre setores.
-   - **Tecnologias**: C#, .NET Core, SQL Server, Azure.
-   - [Repositório do projeto](#)
-
-3. **Certificado de Validação**
-   - Projeto com lógica SQL avançada para inserção e validação de certificados, incluindo triggers para geração de chave de acesso.
-   - **Tecnologias**: SQL Server, Procedures, Triggers.
-   - [Repositório do projeto](#)
+<p align="center">
+  <a href="leo.januario@icloud.com" target="_blank">✉️ Email</a> | 
+  <a href="https://linkedin.com/in/leojanuario" target="_blank">🔗 LinkedIn</a>
+</p>
 
 ---
 
-## 🎯 Objetivos
-
-- Tornar-se especialista em **Machine Learning** e **Data Analysis**.
-- Contribuir para projetos de código aberto voltados para inteligência artificial e aprendizado de máquina.
-- Obter uma posição onde eu possa aplicar minhas habilidades de desenvolvimento em **Azure** e **C#** para resolver problemas complexos em escala.
-
----
-
-## 📫 Como me Contatar
-
-- **E-mail**: [seuemail@email.com](mailto:seuemail@email.com)
-- **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/seulinkedin)
-
----
-
-Agradeço por visitar meu perfil! Fique à vontade para explorar meus repositórios e entre em contato caso tenha interesse em colaborar.
-
----
-
-### 👏 Vamos conectar e inovar juntos!
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e descobrir mais sobre meus projetos.
