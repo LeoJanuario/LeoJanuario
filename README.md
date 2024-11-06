@@ -25,6 +25,73 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/LeoJanuario/LeoJanuario/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</div>
+
+# Leonardo Januario
+
+### 👨‍💻 Desenvolvedor de Software | Entusiasta de Machine Learning | Analista Programador Jr.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/seulinkedin) 
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:seuemail@email.com)
+
+Olá! Sou o Leonardo, desenvolvedor de software com foco em **back-end** e especializado em **C#** e **.NET**. Tenho experiência em otimização de processos, criação de APIs e integração de sistemas em nuvem, principalmente com **Azure**. Atualmente, estou focado em expandir meus conhecimentos em **Machine Learning** e estou cursando uma pós-graduação para me tornar um Machine Learning Engineer.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Linguagens**: C#, Python, SQL, JavaScript
+- **Frameworks**: .NET Core, TensorFlow, Scikit-learn
+- **Frontend**: HTML, CSS, Bootstrap
+- **Bancos de Dados**: SQL Server, Azure SQL
+- **Cloud**: Microsoft Azure
+- **Ferramentas & Metodologias**: Git, Agile, Azure DevOps
+
+## 🎓 Formação e Certificações
+
+- **Pós-graduação**: Machine Learning Engineer (Em andamento)
+- **Graduação**: Análise e Desenvolvimento de Sistemas - UNISA
+- **Certificações**: 
+  - [Certificação 1](#)
+  - [Certificação 2](#)
+
+---
+
+## 🚀 Projetos em Destaque
+
+1. **LMS (Learning Management System)**
+   - Sistema de gestão de aprendizado, com envio de e-mails automáticos e controle de presença.
+   - **Tecnologias**: C#, .NET, SQL Server, Azure.
+   - [Repositório do projeto](#)
+
+2. **API de Controle de Estoque**
+   - Sistema desenvolvido para melhorar a gestão de produtos e otimizar o fluxo de dados entre setores.
+   - **Tecnologias**: C#, .NET Core, SQL Server, Azure.
+   - [Repositório do projeto](#)
+
+3. **Certificado de Validação**
+   - Projeto com lógica SQL avançada para inserção e validação de certificados, incluindo triggers para geração de chave de acesso.
+   - **Tecnologias**: SQL Server, Procedures, Triggers.
+   - [Repositório do projeto](#)
+
+---
+
+## 🎯 Objetivos
+
+- Tornar-se especialista em **Machine Learning** e **Data Analysis**.
+- Contribuir para projetos de código aberto voltados para inteligência artificial e aprendizado de máquina.
+- Obter uma posição onde eu possa aplicar minhas habilidades de desenvolvimento em **Azure** e **C#** para resolver problemas complexos em escala.
+
+---
+
+## 📫 Como me Contatar
+
+- **E-mail**: [seuemail@email.com](mailto:seuemail@email.com)
+- **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/seulinkedin)
+
+---
+
+Agradeço por visitar meu perfil! Fique à vontade para explorar meus repositórios e entre em contato caso tenha interesse em colaborar.
+
+---
+
+### 👏 Vamos conectar e inovar juntos!
